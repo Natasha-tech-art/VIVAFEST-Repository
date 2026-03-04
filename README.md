@@ -21,6 +21,7 @@ This project is about a website that deals with  the advertising of different ev
 
 
 ~WHAT EACH PAGE CONTAINS:
+
 *HOME:
 
  A welcoming section
@@ -44,6 +45,7 @@ This project is about a website that deals with  the advertising of different ev
  Why choose us
 
  *CONSULTANTS
+
  Each card contains their:
  
  name
@@ -61,15 +63,19 @@ This project is about a website that deals with  the advertising of different ev
  *TICKETS AND PRICES
  
  Contains different types of tickets
+
  *THEMES
  
  Contains different themes and dress codes for each event
+
  *CONTACT US
  
  Here,app users are allowed to send messages and also view the contact information of the website
+
  *LOG IN
  
  Here,one can log in using their email address or sign up for a an account if it is not available
+
 
  #DIFFERENT STYLES USED
  
